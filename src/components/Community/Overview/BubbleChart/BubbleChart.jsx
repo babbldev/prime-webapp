@@ -1,6 +1,6 @@
 import React from "react";
 import Chart from "react-google-charts";
-import TickerCard from "../TickerCard/TickerCard";
+//import TickerCard from "../TickerCard/TickerCard";
 import { useDispatch, useSelector } from "react-redux";
 import { makeStyles } from "@material-ui/core/styles";
 
